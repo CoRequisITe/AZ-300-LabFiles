@@ -231,7 +231,7 @@ The main tasks for this exercise are as follows:
 1. On the **When_a_resource_event_occurs** blade, copy the value of the **Callback url [POST]** text box.
 
 
-#### Task 4: Configure an event subscription
+#### Task 4: Configure an event subscription (het kan zijn dat deze tijdens de vorige stap al is gemaakt, controleer dit eerst)
 
 1. In the Azure portal, navigate to the **az3000701-LabRG** resource group and, in the vertical menu, click **Events**.
 
